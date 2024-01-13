@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amnat THANONGNUAL
 =========================================================================================================================================
 
-👨🏻‍💻 I'm looking for a job.<picture><img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg](https://thumbs.dreamstime.com/z/surfing-net-9793421.jpg?ct=jpeg)" width="64" height="64" /> </picture>
+👨🏻‍💻 I'm looking for a job.<picture><img src="(https://thumbs.dreamstime.com/z/surfing-net-9793421.jpg?ct=jpeg)" width="64" height="64" /> </picture>
 --------------
 
 
